@@ -1,2 +1,2 @@
-# Bootstrap
-### First project using Bootstrap
+![Bootstrap](bt-logo.png)
+#### *First project using Bootstrap*
